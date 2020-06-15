@@ -5,9 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="aqua">
     <center><h1>Know Your Mentor</h1></center>
-    <center> Mr. Vimal Daga World Record Holder </center>
-   <center><a href="dnkjj"> View Linked In Profile</a></center> 
+    <center> Mr. Vimal Daga World Record Holder </center><br>
+
+   <center><a href="https://in.linkedin.com/in/vimaldaga"> View Linked In Profile</a></center> 
+   <br>
+   <img src="p1.jpg" alt="Know Your Mentor" width=" 440" height="500">
+   <img src="p2.jpg" alt="Know Your Mentor" width=" 440" height="500"> 
+   <img src="p3.jpg" alt="Know Your Mentor" width=" 440" height="500"> 
 </body>
 </html>
